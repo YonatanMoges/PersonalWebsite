@@ -1,0 +1,10 @@
+.header{
+    text-align: center;
+}
+.container{
+    text-align: center;
+    border: solid 1pt grey
+}
+.navbar{
+    position: relative;
+}
