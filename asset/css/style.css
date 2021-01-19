@@ -7,9 +7,6 @@ body{
     background-color: #2d2674;
 }
 
-#header{
-    color: #2d2674
-}
 
 #container{
     padding: 0;
@@ -22,14 +19,14 @@ li {
     padding: 12px;
 }
 
-header{
+#header{
     background-color: white;
     color: #2d2674;
     font-weight: bold;
     margin-bottom: 0;
 }
 
-#maincontent{
+#mainbar{
     background-color: white;
     font-family: 'Arial','Helvetica';
     padding-left: 0 ;
@@ -38,14 +35,14 @@ header{
 
 }
 
-#left{
+#leftside{
     margin-top: 10px;
     padding-left: 20px;
     padding-right: 20px; 
   
   }
 
-#maincontent2{
+#mainbar2{
     font-family: 'Arial', 'Helvetica', sans-serif;
     font-size: 14px;
     font-weight: normal;
@@ -53,10 +50,26 @@ header{
 }
 }
 
+#aboutme{
+    color: #333333;
+    line-height: 42px;
+    padding-bottom: 30px;
+    font-family: DroidSerif;
+    font-size: 36px;
+    font-weight: normal;
+}
 
 
+#rightside{
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
 
-
+#icons{
+    margin-bottom: 35px;
+    padding-bottom: 35px;
+}
 
   
 
